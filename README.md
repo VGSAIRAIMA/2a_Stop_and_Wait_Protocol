@@ -40,7 +40,7 @@ while True:
 ## OUTPUT
 ![IMAGE](https://github.com/VGSAIRAIMA/2a_Stop_and_Wait_Protocol/blob/main/Screenshot%202026-05-11%20143116.png)
 
-![IMAGE](https://github.com/VGSAIRAIMA/2a_Stop_and_Wait_Protocol/blob/main/Screenshot%202026-05-11%20143205.png)
+![IMAGE](https://github.com/VGSAIRAIMA/2a_Stop_and_Wait_Protocol/blob/main/Screenshot%202026-05-11%20143842.png)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
